@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-<h1>Online Transaction Fraud Detection</h1>
+<h1>UPI Fraud Detection</h1>
 This repository contains a fraud detection model for online transactions using machine learning algorithms.
 
 <h3>Dataset</h3>
