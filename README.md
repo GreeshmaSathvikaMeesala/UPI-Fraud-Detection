@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <h1>Online Transaction Fraud Detection</h1>
 This repository contains a fraud detection model for online transactions using machine learning algorithms.
 
@@ -30,3 +31,6 @@ To use the app, select a model (SVM, Logistic Regression, or XGBoost) and click 
 
 <h3>Data Visualisation</h3>
 The app includes data visualisation features to explore the dataset and model performance, including a correlation matrix, fraud vs. flagged fraud plot, fraudulent transactions by type, and transaction types plot.
+=======
+# UPI-Fraud-Detection
+>>>>>>> 9104f9fd9b1cd53ca237c0c79e3e9f9e1d77af69
